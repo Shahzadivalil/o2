@@ -15,6 +15,22 @@ Best Machine learning approaches for Heart disease prediction are:
 
 By performing this 6 techniques we will choose the best model for predict o2 saturation.
 
+HEART DATA DICTIONARY:
+
+age : age of persons
+sex : gender of persons
+cp : chest pain type (4 values)
+trtbps : resting blood pressure
+chol : serum cholestrol in mg/dl
+fbs : fasting blood sugar > 120 mg/dl
+restecg : resting electrocardio results(values 0,1,2)
+thalach : maximum heart rate achieved
+exng : exercise induced angina
+oldpeak : ST depression induced by exercise relative to rest
+slp : the slope of the peak exercise ST segment
+caa : number of major vessels(0-3) colored by flourosopy
+thall : 0=normal, 1=fixed defect, 2 = reversable defect
+output : Target column, 1 = Diseased, 0 = Not Diseased
 
 ### Problem Description
 checking the person is o2 saturated or not
