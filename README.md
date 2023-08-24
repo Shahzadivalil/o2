@@ -2,6 +2,20 @@
 
 ## Indroduction
 
+The goal of this project is to predict the binary output.Whether the patient has  disease or not.
+
+It is well known that the libraries available in Python for data loading, management, and building models, such as Pandas, NumPy, and Scikit-Learn, help build robust data science applications. However, when dealing with medical data in data science, data privacy and protection are important parameters that cannot be ignored.With Python programming language, cybersecurity professionals can efficiently accomplish these aspects in healthcare projects. Beyond data science, Python is also widely used for decoding and sending packets, network scanning, accessing servers, analyzing web traffic, and port scanning.
+
+Best Machine learning approaches for Heart disease prediction are:
+1.Logistic Regression
+2.Random Forest
+3.Decision Tree
+4.K-Nearest Neighbours
+5.Support Vector Machine
+
+By performing this 6 techniques we will choose the best model for predict o2 saturation.
+
+
 ### Problem Description
 checking the person is o2 saturated or not
 
