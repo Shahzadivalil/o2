@@ -1,6 +1,9 @@
 # o2 saturation Prediction Using Machine learning
+## Objective:
 
-## Indroduction
+Do classification(Diseased or Not Diseased) on this data and choose the best model with highest accuracy.
+
+## Indroduction:
 
 The goal of this project is to predict the binary output.Whether the patient has  disease or not.
 
