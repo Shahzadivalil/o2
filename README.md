@@ -6,7 +6,7 @@ The goal of this project is to predict the binary output.Whether the patient has
 
 It is well known that the libraries available in Python for data loading, management, and building models, such as Pandas, NumPy, and Scikit-Learn, help build robust data science applications. However, when dealing with medical data in data science, data privacy and protection are important parameters that cannot be ignored.With Python programming language, cybersecurity professionals can efficiently accomplish these aspects in healthcare projects. Beyond data science, Python is also widely used for decoding and sending packets, network scanning, accessing servers, analyzing web traffic, and port scanning.
 
-Best Machine learning approaches for Heart disease prediction are:
+Best Machine learning approaches for  disease prediction are:
 
 1.Logistic Regression
 
